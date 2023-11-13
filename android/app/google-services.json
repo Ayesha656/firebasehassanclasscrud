@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "486696817785",
+    "firebase_url": "https://testproject-b1527-default-rtdb.firebaseio.com",
+    "project_id": "testproject-b1527",
+    "storage_bucket": "testproject-b1527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486696817785:android:2ff20c1a80f44ff40870a8",
+        "android_client_info": {
+          "package_name": "com.example.firebasehassanclasscrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTgj1SVvTSxM1VP8lh5H2wcYvSpSIvig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486696817785:android:5eea7c158da79ed10870a8",
+        "android_client_info": {
+          "package_name": "com.example.mwffirstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTgj1SVvTSxM1VP8lh5H2wcYvSpSIvig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
